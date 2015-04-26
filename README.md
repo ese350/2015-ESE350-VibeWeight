@@ -1,3 +1,3 @@
 # 2015-ESE350-VibeWeight
-
-Hello
+http://vibeweight.blogspot.com
+https://github.com/versi786/ESE350_Final_Project
